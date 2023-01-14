@@ -1,4 +1,4 @@
-module github.com/Kleins/vgp_practice_server
+module github.com/kleinsproject/vgp_practice_server
 
 go 1.19
 
